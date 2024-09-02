@@ -11,7 +11,8 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "D:\\Environment\\mingw64\\bin\\gcc.exe"
+            "compilerPath": "D:\\Environment\\mingw64\\bin\\gcc.exe",
+            "configurationProvider": "cmsis-csolution"
         }
     ],
     "version": 4
